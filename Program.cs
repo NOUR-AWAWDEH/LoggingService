@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Transactions;
 
-//this code is not OCP compliant, modify it to be compliant.
+//this code  OCP compliant
 public class LoggingService
 {
     private ILog _log;
